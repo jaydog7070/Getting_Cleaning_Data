@@ -12,4 +12,4 @@ I have included both of those files in my github repo. The original data is part
 
 Ammended or transformed data.
 ==============================
-We are to use only the features that include either std or mean within their composition. I have included a file of the 79 features included in my tidy data set that only pertain to the std or mean of a measurement. The file is features_std_mean.txt .  
+We are to use only the features that include either std or mean within their composition. I have included a file of the 79 features included in my tidy data set that only pertain to the std or mean of a measurement. The file is features_std_mean.txt . I have included the mean of the  
